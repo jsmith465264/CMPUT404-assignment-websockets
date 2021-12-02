@@ -1,4 +1,5 @@
 **Citations**
+==============================
 Used code from abram hindle https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py for setting up socket
 Used code from myself https://github.com/jsmith465264/CMPUT404-assignment-ajax/blob/master/server.py for app route
 Collaberated with tpham3 - asked for help and he pointed me towards the websocket example
